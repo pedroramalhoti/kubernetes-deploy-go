@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.lb.privacyhealth.com.br
+  - host: go.rancher.privacyhealth.com.br
     http:
       paths:
         - path: /
